@@ -1,4 +1,4 @@
-compute_reg_corr_DJFTemp_glost.ipynb : Compute the regression and correlation of the DJF mean/variance of daily ERA5 temperature over the 30 year smoothed GLOST (LOESS).
+compute_reg_corr_DJFTemp_glost.ipynb : Compute the regression and correlation of the DJF mean/variance of daily ERA5 temperature onto the 30 year smoothed GLOST (LOESS).
 
 Plot of evgam ERA5 AFI analysis:
 | File name  |    Domain      |  Period      |     location      |  scale |shape |
