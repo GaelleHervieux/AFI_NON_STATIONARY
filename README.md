@@ -16,4 +16,4 @@ Plot of evgam ERA5 AFI analysis:
 | Weibull_NOS_sc_sh|CONUS  |1941-2023  | Weibull| na  | ~ s(glost,k=5) | ~ s(glost,k=5)|
 | Weibull_NOS_sc|CONUS  |1941-2023  | Weibull| na  | ~ s(glost,k=5) | ~1|
 |Weibull_NOS_sc_sh|Alaska  |1941-2023  |Weibull|  na  | ~ s(glost,k=5) | ~ s(glost,k=5)|
-|Weibull_NOS_sc_sh_Alaska|Alaska  |1941-2023  |Weibull|  na  | ~ s(glost,k=5) | ~1|
+|Weibull_NOS_sc_sh|Alaska  |1941-2023  |Weibull|  na  | ~ s(glost,k=5) | ~1|
